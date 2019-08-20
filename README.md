@@ -5,7 +5,7 @@ Docker Image of Ansible for executing ansible-playbook command against an extern
 ## Build
 
 ```
-docker build -t walokra/ansible-playbook .
+docker build -t ksokolik/ansible-playbook .
 ```
 
 ### Test
